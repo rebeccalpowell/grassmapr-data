@@ -1,0 +1,18 @@
+All data sets are 10min (0.1666667 deg) spatial resolution
+Resampled to the same spatial grid and extent (to match CRU global data)
+
+Climate Layers:
+cru_pre_10min.tif - monthly precipitation (mm/month)
+cru_tmn_10min.tif - mean monthly min temperature (deg C) 
+cru_tmp_10min.tif - mean monthly temperature (deg C)
+cru_tmx_10min.tif - mean monthly max temperature (deg C) 
+
+Harmonized Vegetation Layers:
+c3_crop_cov_2000_10min.tif - percent c3 crop cover (adjusted for multicropping)
+c4_crop_cov_2000_10min.tif - percent c4 crop cover (adjusted for multicropping)
+vcf_tree_crown_2001_10min.tif - percent tree crown cover 
+
+Greenness Index:
+ndvi_2001_10min - Normalized Difference Vegetation Index (MOD13A3 v006)
+
+* Vegetation layers are stored as FLOAT. Climate layers are stored as INT.
