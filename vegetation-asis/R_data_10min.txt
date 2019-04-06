@@ -1,10 +1,9 @@
 All data sets are 10min (0.1666667 deg) spatial resolution
 Resampled to the same spatial grid and extent (to match CRU global data)
 
-
-Un-Harmonized Vegetation Layers:
-c3_crop_cov_2000_10min_adj.tif - percent c3 crop cover (adjusted for multicropping)
-c4_crop_cov_2000_10min_adj.tif - percent c4 crop cover (adjusted for multicropping)
+Vegetation layers have not been harmonized:
+c3_crop_cov_2000_10min.tif - percent c3 crop cover (adjusted for multicropping)
+c4_crop_cov_2000_10min.tif - percent c4 crop cover (adjusted for multicropping)
 vcf_tree_crown_2001_10min.tif - percent tree crown cover 
 
 Greenness Index:
